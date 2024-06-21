@@ -1,3 +1,5 @@
+![Cover](https://github.com/AntoinePELAMOURGUES/AntoinePELAMOURGUES/blob/main/img/Black%20and%20Orange%20Aesthetic%20LinkedIn%20Banner.png)
+
 ## Hi there 👋
 
 <!--
