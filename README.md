@@ -1,6 +1,6 @@
 ![Cover](https://github.com/AntoinePELAMOURGUES/AntoinePELAMOURGUES/blob/main/img/Fond1.png)
 
-## Hi there 👋
+## Hi I'm Antoine 👋
 
 <!--
 **AntoinePELAMOURGUES/AntoinePELAMOURGUES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
