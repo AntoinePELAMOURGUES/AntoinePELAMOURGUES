@@ -1,6 +1,6 @@
 ![Cover](https://github.com/AntoinePELAMOURGUES/AntoinePELAMOURGUES/blob/main/img/github.png)
 
-## Hi I'm Antoine 👋, I'm 42 years old and I live in Montpellier :fr: . I work as a Machine Learning Engineer :robot:
+## Hi I'm Antoine 👋, I'm 42 years old and I live in Montpellier (France). I work as a Machine Learning Engineer :robot:
 
 Après des années à travailler sur des enquêtes :cop: en tant qu'analyste criminel, j'ai décidé d'approfondir mes connaissances liées au traitement des données. Je suis actuellement inscrit auprès de l'école Datascientest afin d'obtenir mon dîplome d'ingénieur Machine Learning. 
 
