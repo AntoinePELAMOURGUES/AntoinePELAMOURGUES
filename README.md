@@ -1,4 +1,4 @@
-![Cover](https://github.com/AntoinePELAMOURGUES/AntoinePELAMOURGUES/blob/main/img/Fond1.png)
+![Cover](https://github.com/AntoinePELAMOURGUES/AntoinePELAMOURGUES/blob/main/img/github.png)
 
 ## Hi I'm Antoine 👋
 
