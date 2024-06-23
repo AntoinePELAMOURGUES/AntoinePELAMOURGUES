@@ -2,7 +2,7 @@
 
 ## Hi I'm Antoine 👋, I'm 42 years old and I live in St Denis(974).
 
-Après des années à travailler sur des enquêtes :cop: en tant qu'analyste criminel, j'ai décidé d'approfondir mes connaissances liées au traitement des données. Je suis actuellement inscrit auprès de l'école Datascientest afin d'obtenir mon dîplome d'ingénieur Machine Learning. 
+Travaillant sur des enquêtes criminelles :cop: avec la specificité d'analyste opérationnel, je souhaite approfondir mes connaissances liées au traitement des données. Je suis actuellement inscrit auprès de l'école Datascientest afin d'obtenir mon dîplome d'ingénieur Machine Learning. 
 
 - 🔭 I’m currently working on the project "Challenge Rakuten France Multimodal Product Data Classification"
 
