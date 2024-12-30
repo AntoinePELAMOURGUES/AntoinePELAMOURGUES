@@ -4,7 +4,7 @@
 
 Travaillant sur des enquêtes criminelles :cop: avec la specificité d'analyste opérationnel, je souhaite approfondir mes connaissances liées au traitement des données. Je suis actuellement inscrit auprès de l'école Datascientest afin d'obtenir mon dîplome d'ingénieur Machine Learning. 
 
-- 🔭 I’m currently working on the project "Challenge Rakuten France Multimodal Product Data Classification"
+- 🔭 I’m currently working on the project "Api de recommandations de films"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; align-items:center">
@@ -87,9 +87,9 @@ Travaillant sur des enquêtes criminelles :cop: avec la specificité d'analyste 
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AntoinePELAMOURGUES/PROJET_CHALLENGE_RAKUTEN?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AntoinePELAMOURGUES/Ml_Ops_Movies_Reco"><b>API de recommandation de films</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/AntoinePELAMOURGUES/Ml_Ops_Movies_Reco?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tAntoinePELAMOURGUES/Ml_Ops_Movies_Reco?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/AntoinePELAMOURGUES/Ml_Ops_Movies_Reco?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AntoinePELAMOURGUES/Ml_Ops_Movies_Reco?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/AntoinePELAMOURGUES/PROJET_MLOPS_RECO_MOVIES"><b>API de recommandation de films</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AntoinePELAMOURGUES/PROJET_MLOPS_RECO_MOVIES?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tAntoinePELAMOURGUES/PROJET_MLOPS_RECO_MOVIES?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/AntoinePELAMOURGUES/PROJET_MLOPS_RECO_MOVIES?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AntoinePELAMOURGUES/PROJET_MLOPS_RECO_MOVIES?style=flat-square&labelColor=343b41"/></td>
     </tr>
