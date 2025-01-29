@@ -1,16 +1,41 @@
 ![Cover](https://github.com/AntoinePELAMOURGUES/AntoinePELAMOURGUES/blob/main/img/github.png)
 
-## Hi I'm Antoine 👋, I'm 42 years old and I live in St Denis(974).
+# **Bonjour 👋, moi c'est Antoine !**
 
-Travaillant sur des enquêtes criminelles :cop: avec la specificité d'analyste opérationnel, je souhaite approfondir mes connaissances liées au traitement des données. Je suis actuellement inscrit auprès de l'école Datascientest afin d'obtenir mon dîplome d'ingénieur Machine Learning. 
+Ingénieur Machine Learning de 42 ans, je vis à Lyon, la ville où le bon goût et les algorithmes se rencontrent. Après 15 ans en tant qu'enquêteur sur des dossiers criminels, j'ai décidé de plonger dans le monde fascinant du Machine Learning. Oui, j'ai échangé mes enquêtes pour des modèles prédictifs – qui aurait cru que les données pouvaient être aussi captivantes ?
 
-- 🔭 I’m currently working on the project "Api de recommandations de films"
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex; align-items:center">
-<a href="https://www.linkedin.com/in/antoine-pelamourgues-4533ab28a" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="starc007" height="30" width="30" /></a>
-<a href="https://instagram.com/antoine_pela" target="blank" style="margin-left:15px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saurra3h" height="30" width="30" /></a>
-</p>
+## **Mon parcours :**
+
+Depuis deux ans, je me forme à l'école **Datascientest**, où j'ai eu l'opportunité de développer plusieurs projets qui constituent ma vitrine professionnelle. Voici un aperçu :
+
+- **DataViz avec Pandas et Plotly**  
+  Un projet simple mais efficace pour visualiser les données. Qui a dit que les graphiques ne pouvaient pas être sexy ? 📊
+
+- **Classification multimodale (image et texte)**  
+  Un projet technique qui fusionne les modèles de classification de textes et ceux d'images, nous amenant à réfléchir à l'interprétabilité. Qui l'eût cru ? 📚
+
+- **MLOps avec Kubernetes**  
+  J'ai déployé une application de recommandation de films. Oui, je suis celui qui vous dit quoi regarder ce soir (et je ne suis pas payé par Netflix). 🎥🍿
+
+- **Data Product Manager (DPM)**  
+  En tant que DPM, je suis au cœur de la création de projets. Pensez à moi comme le chef d'orchestre d'une symphonie de données – sans la baguette, mais avec beaucoup d'enthousiasme ! 🎼📈
+
+---
+
+## **Pourquoi GitHub ?**
+
+Ici sur ma page GitHub, vous découvrirez mes projets en détail, ainsi que mon approche pour résoudre des problèmes complexes. 
+
+Si vous êtes à la recherche d'un ingénieur ML passionné par les défis et prêt à apporter une touche de créativité à votre équipe, n'hésitez pas à me contacter. Ensemble, nous pourrions transformer des données en histoires captivantes !
+
+---
+
+💼 **Retrouvez-moi également sur [LinkedIn](https://www.linkedin.com/in/antoine-pelamourgues-4533ab28a)**  
+📫 **Contactez-moi :** antoinepela@gmail.com
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; align-items:center; flex-wrap: wrap;">
@@ -66,6 +91,8 @@ Travaillant sur des enquêtes criminelles :cop: avec la specificité d'analyste 
         <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg alt="AWS" width=40 height=40 title="AWS">
     </a>
 </p>
+
+---
 
 <h3>Open source projects</h3>
 <table>
