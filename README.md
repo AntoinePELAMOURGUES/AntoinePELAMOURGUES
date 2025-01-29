@@ -79,6 +79,13 @@ Travaillant sur des enquêtes criminelles :cop: avec la specificité d'analyste 
     </tr>
   </thead>
   <tbody>
+      <tr>
+      <td><a href="https://github.com/AntoinePELAMOURGUES/PROJET_TELEPHONY_INSIGHT"><b>Datavisualisation des données téléphoniques à la Réunion</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AntoinePELAMOURGUES/PROJET_TELEPHONY_INSIGHT?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tAntoinePELAMOURGUES/PROJET_TELEPHONY_INSIGHT?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/AntoinePELAMOURGUES/PROJET_TELEPHONY_INSIGHT?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AntoinePELAMOURGUES/PROJET_TELEPHONY_INSIGHT?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/AntoinePELAMOURGUES/PROJET_CHALLENGE_RAKUTEN"><b>Challenge Rakuten France Multimodal Product Data Classification</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/AntoinePELAMOURGUES/PROJET_CHALLENGE_RAKUTEN?style=flat-square&labelColor=343b41"/></td>
